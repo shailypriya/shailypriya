@@ -54,11 +54,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailypriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
-
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shailypriya&icon=0&color=0" alt="Profile Visit Count"/>
-  </a>
-</p>
-
 <!-- Proudly created with a mix of GitHub Profile README Generator and custom additions -->
